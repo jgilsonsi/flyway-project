@@ -1,1 +1,1 @@
-Exemplo de utilização do plugin Flyway para automatização do versionamento de databases
+Projeto usando o plugin Flyway para automação e versionamento de banco de dados.
